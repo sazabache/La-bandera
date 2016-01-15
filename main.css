@@ -1,0 +1,28 @@
+/* Escribe tu css aqui */
+.Uno{
+	background-color: #FFFF00;
+	height: 100px;
+	width: 1500px;
+}
+.Dos{
+	background-color: #FF0000;
+	height: 100px;
+	width: 1500px;
+}
+
+.Tres{
+	background-color: #FFFF00;
+	height: 100px;
+	width: 280px;
+	padding: 12px;
+	margin: 15px 15px 15px 0px;
+	display: inline;
+}
+.Cuatro{
+	background-color: #FF0000;
+	height: 100px;
+	width: 280px;
+	padding: 12px;
+	margin: 15px 15px 15px 0px;
+	display: inline;
+}
